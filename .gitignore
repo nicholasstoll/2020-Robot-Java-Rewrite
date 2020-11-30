@@ -103,11 +103,11 @@ Temporary Items
 .apdisk
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.build/*
+!.build/settings.json
+!.build/tasks.json
+!.build/launch.json
+!.build/extensions.json
 
 ### Windows ###
 # Windows thumbnail cache files
